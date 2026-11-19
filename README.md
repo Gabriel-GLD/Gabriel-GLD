@@ -56,24 +56,5 @@ style="padding-right: 10px;"
 src="https://cdn.simpleicons.org/googleappsscript/4285F4" />
 
 <br/><br/>
-
-
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img
-    width="49%"
-    src="./profile/stats.svg"
-    alt="GitHub Statistics"
-  />
-  <img
-    width="49%"
-    src="./profile/top-langs.svg"
-    alt="Most Used Languages"
-  />
-</p>
-
-
-
 ---
 
