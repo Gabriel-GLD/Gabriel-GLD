@@ -1,67 +1,70 @@
-# Gabriel Duarte
+# 👨‍💻 Gabriel Duarte
 
-**`Desenvolvedor de Software | Full Stack Developer`**
+### `Software Developer | Always Learning, Always Building.`
 
-Olá! Meu nome é **Gabriel Lucas Duarte Liberato**, sou estudante de **Ciências da Computação** e desenvolvedor apaixonado por tecnologia e inovação.
+Sou **Gabriel Lucas Duarte Liberato**, estudante de Ciências da Computação e entusiasta do universo da tecnologia.
 
-Meu interesse pela programação começou com Python e, desde então, venho desenvolvendo minhas habilidades na criação de aplicações, sistemas e soluções tecnológicas.
+🚀 Interessado em explorar diferentes áreas da programação, desenvolver soluções, aprender novas tecnologias e transformar ideias em projetos.
 
-Atualmente, tenho direcionado meus estudos para o desenvolvimento **Full Stack**, trabalhando com aplicações web e mobile, integração com bancos de dados, APIs REST e automação de processos.
-
-Gosto de entender como as coisas funcionam por trás do código, desenvolver soluções que resolvam problemas reais e transformar ideias em projetos funcionais.
-
-- 🎓 Estudante de Ciências da Computação.
-- 💻 Focado em desenvolvimento Full Stack.
-- 📱 Explorando o desenvolvimento de aplicações mobile com React Native.
-- ⚙️ Interessado em APIs, automação e arquitetura de software.
-- 🚀 Desenvolvendo projetos pessoais e explorando novas tecnologias.
+💡 Acredito que a evolução na tecnologia nunca termina: estou sempre aprendendo, experimentando e expandindo meus conhecimentos.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🧠 Tech Stack & Tools
 
+**Linguagens e Desenvolvimento**
 
-### 🤖 Linguagens e Tecnologias
+\<p align="left">   \<img src="[https://skillicons.dev/icons?i=html,css,js,ts,python](https://skillicons.dev/icons?i=html,css,js,ts,python)" /> \</p>
 
-**Front-end**
+**Frontend & Mobile**
 
-<img align="left" alt="HTML5" title="HTML5" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+\<p align="left">   \<img src="[https://skillicons.dev/icons?i=react,bootstrap,tailwind,expo](https://skillicons.dev/icons?i=react,bootstrap,tailwind,expo)" /> \</p>
 
-<img align="left" alt="CSS3" title="CSS3" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+**Backend & Database**
 
-<img align="left" alt="JavaScript" title="JavaScript" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+\<p align="left">   \<img src="[https://skillicons.dev/icons?i=nodejs,mysql,mongodb,sqlite](https://skillicons.dev/icons?i=nodejs,mysql,mongodb,sqlite)" /> \</p>
 
-<img align="left" alt="TypeScript" title="TypeScript" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+**Ferramentas & Ambiente de Desenvolvimento**
 
-<img align="left" alt="React" title="React" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+\<p align="left">   \<img src="[https://skillicons.dev/icons?i=git,github,vscode,linux,windows](https://skillicons.dev/icons?i=git,github,vscode,linux,windows)" /> \</p>
 
-<img align="left" alt="Bootstrap" title="Bootstrap" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+---
 
-<img align="left" alt="Tailwind CSS" title="Tailwind CSS" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+### 🔭 Exploring & Learning
 
-<br/><br/>
+- 🌐 Desenvolvimento Web e Mobile
+- ⚙️ Backend, APIs REST e Arquitetura de Software
+- 🗄️ Banco de Dados e Engenharia de Dados
+- 🤖 Inteligência Artificial e Machine Learning
+- 🔐 Cibersegurança e Infraestrutura
+- ☁️ Cloud Computing e DevOps
+- 🧩 Automação e otimização de processos
 
-**Backend e Banco de Dados**
+---
 
-<img align="left" alt="Node.js" title="Node.js" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+### 📊 GitHub Analytics
 
-<img align="left" alt="MySQL" title="MySQL" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+\<p align="center">
+&#x20; \<img height="170" src="[https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=true](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO\&show_icons=true\&theme=tokyonight\&include_all_commits=true\&locale=pt-br\&hide_border=true)" />
+&#x20; \<img height="170" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&langs_count=8&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO\&layout=compact\&theme=tokyonight\&langs_count=8\&hide_border=true)" />
+\</p>
 
-<img align="left" alt="MongoDB" title="MongoDB" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+\<p align="center">
+&#x20; \<img width="90%" src="[https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO\&theme=tokyonight\&hide_border=true)" />
+\</p>
 
-<img align="left" alt="Python" title="Python" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+---
 
-<br/><br/>
+### 🌎 Connect with me
 
-**Mobile, Ferramentas e Automação**
+\<p align="left">   \<a href="[https://www.linkedin.com/in/SEU_LINKEDIN/](https://www.linkedin.com/in/SEU_LINKEDIN/)" target="\_blank">     \<img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" />   \</a>   \<a href="[https://github.com/SEU_USUARIO](https://github.com/SEU_USUARIO)" target="\_blank">     \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" />   \</a> \</p>
 
-<img align="left" alt="React Native" title="React Native" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+---
 
-<img align="left" alt="Git" title="Git" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+\<p align="center">
+&#x20; \<i>"The best way to predict the future is to build it."\</i>
+\</p>
 
-<img align="left" alt="GitHub" title="GitHub" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-
-<img align="left" alt="Google Apps Script" title="Google Apps Script" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googleappsscript/googleappsscript-original.svg" />
-
-<br/><br/>
-
+\<p align="center">
+&#x20; \<img src="[https://komarev.com/ghpvc/?username=SEU_USUARIO&style=flat-square&color=blueviolet&label=Profile+Views](https://komarev.com/ghpvc/?username=SEU_USUARIO\&style=flat-square\&color=blueviolet\&label=Profile+Views)" />
+\</p>
