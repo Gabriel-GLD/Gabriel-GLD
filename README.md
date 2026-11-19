@@ -1,6 +1,6 @@
 # 👨‍💻 Gabriel Duarte
 
-### `Software Developer | Always Learning, Always Building.`
+### `Software Developer`
 
 Sou **Gabriel Lucas Duarte Liberato**, estudante de Ciências da Computação e entusiasta do universo da tecnologia.
 
@@ -48,9 +48,13 @@ Sou **Gabriel Lucas Duarte Liberato**, estudante de Ciências da Computação e 
 
 <img align="left" alt="Git" title="Git" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
-<img align="left" alt="GitHub" title="GitHub" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+<img align="left" alt="GitHub" title="GitHub" width="35px"
+style="padding-right: 10px;"
+src="https://cdn.simpleicons.org/github/white" />
 
-<img align="left" alt="Google Apps Script" title="Google Apps Script" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googleappsscript/googleappsscript-original.svg" />
+<img align="left" alt="Google Apps Script" title="Google Apps Script" width="35px"
+style="padding-right: 10px;"
+src="https://cdn.simpleicons.org/googleappsscript/4285F4" />
 
 <br/><br/>
 
