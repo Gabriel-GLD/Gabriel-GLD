@@ -65,5 +65,3 @@ Gosto de entender como as coisas funcionam por trás do código, desenvolver sol
 
 <br/><br/>
 
-
-*"Transformando ideias em soluções através da tecnologia."*
